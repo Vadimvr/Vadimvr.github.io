@@ -14,8 +14,8 @@ Like to ride a bike and go hiking.)
 
 Tas &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Status | start date | expiration date
 -------|-------------------|----|----  
-`First Steps - Your portfolio` | PLANNED  | 
-`Основы языка C# и .NET Framework` | PLANNED | 
+First Steps - Your portfolio | PLANNED  | 
+Основы языка C# и .NET Framework | PLANNED | 
 `C# Unit Тестирование` | PLANNED | 
 `Базовые коллекции ` | PLANNED | 
 `C# Coding Practice` | PLANNED | 
