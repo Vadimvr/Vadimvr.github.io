@@ -7,7 +7,8 @@ Did not work in IT. I decided to try and change the type of activity.
 Like to ride a bike and go hiking.)
 
 
-##My tasks
+##My tasks 
+
  Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
 -------|-------------------
 `Основы языка C# и .NET Framework` | PLANNED
