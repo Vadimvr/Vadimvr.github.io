@@ -12,7 +12,7 @@ Like to ride a bike and go hiking.)
 
 ## My tasks 
 
-Tasks &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Status | start &nbsp; &nbsp; date  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | expiration date
+Tasks &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Status | start &nbsp; &nbsp; &nbsp; &nbsp; date  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | expiration date
 -------|-------------------|----|----  
 First Steps - Your portfolio | DONE | Feb 7, 2019 | Feb 8, 2019 
 Основы языка C# и .NET Framework | PLANNED |  | 
