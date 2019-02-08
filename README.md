@@ -7,9 +7,9 @@ Did not work in IT. I decided to try and change the type of activity.
 Like to ride a bike and go hiking.)
 
 
-
+##My tasks
  
-- [ ]  First Steps - Your portfolio                                         PLANNED
+- [ ]  First Steps - Your portfolio                                        PLANNED
 
 - [ ] 1. Основы языка C# и .NET Framework                                  PLANNED
 
@@ -25,3 +25,8 @@ Like to ride a bike and go hiking.)
 
 - [ ] Вводное занятие. Открытый on-line тренинг "Программирование на C#"   PLANNED
 
+Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
+-------|-------------------
+`Value-One` | Long explanation
+`Value-Two` | Long explanation
+`etc` | Long explanation
