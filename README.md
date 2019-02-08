@@ -14,7 +14,7 @@ Like to ride a bike and go hiking.)
 
 Tasks &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Status | start date | expiration date
 -------|-------------------|----|----  
-First Steps - Your portfolio | PLANNED  |  | 
+First Steps - Your portfolio | DONE | Feb 7, 2019 | Feb 8, 2019 
 Основы языка C# и .NET Framework | PLANNED |  | 
 C# Unit Тестирование | PLANNED |  | 
 Базовые коллекции  | PLANNED |  | 
@@ -24,3 +24,5 @@ C# Coding Practice | PLANNED |  |
 Вводное занятие. Открытый on-line тренинг "Программирование на C#" | PLANNED |  | 
 
 - [ ] Raise the level of English
+- [ ] Read book andrew troelsen c# 6.0
+
