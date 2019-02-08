@@ -8,14 +8,18 @@ Like to ride a bike and go hiking.)
 
 
 ##My tasks
- 
-- [ ]  First Steps - Your portfolio                                        PLANNED
+ Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
+-------|-------------------
+`Основы языка C# и .NET Framework` | PLANNED
+`C# Unit Тестирование` | PLANNED
+`Базовые коллекции ` | PLANNED
+- [ ]  First Steps - Your portfolio                                        
 
-- [ ] 1. Основы языка C# и .NET Framework                                  PLANNED
+- [ ] 1.                                   
 
-- [ ] 2. C# Unit Тестирование                                              PLANNED
+- [ ] 2.                                              
 
-- [ ] 3.Базовые коллекции                                                  PLANNED
+- [ ] 3.                                                 PLANNED
                      
 
 - [ ] 4. C# Coding Practice
