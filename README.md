@@ -2,18 +2,18 @@
 
 
   About me
-Did not work in IT. I decided to try and change the type of activity. He began to study Python programming language.
+Did not work in IT. I decided to try and change the type of activity.
   Interests
 Like to ride a bike and go hiking.)
 
 
 
  
-- [x]  First Steps - Your portfolio                                         PLANNED
+- [ ]  First Steps - Your portfolio                                         PLANNED
 
-- [x] 1. Основы языка C# и .NET Framework                                  PLANNED
+- [ ] 1. Основы языка C# и .NET Framework                                  PLANNED
 
-- [x] 2. C# Unit Тестирование                                              PLANNED
+- [ ] 2. C# Unit Тестирование                                              PLANNED
 
 - [ ] 3.Базовые коллекции                                                  PLANNED
                      
