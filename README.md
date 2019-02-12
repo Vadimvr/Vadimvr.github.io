@@ -26,3 +26,13 @@ C# Coding Practice | PLANNED |  |
 - [ ] Raise the level of English
 - [ ] Read book andrew troelsen c# 6.0
 
+#
+#
+#
+#
+##padawans
+
+[FancyCalc ](https://github.com/Vadimvr/FancyCalc)
+[PadawansTask1 ](https://github.com/Vadimvr/PadawansTask1)
+[PadawansTask2 ](https://github.com/Vadimvr/PadawansTask2)
+[PadawansTask3 ](https://github.com/Vadimvr/PadawansTask3)
