@@ -55,4 +55,6 @@ C# Coding Practice | PLANNED |  |
 
 [PadawansTask11](https://github.com/Vadimvr/PadawansTask11)
 
+[PadawansTask12](https://github.com/Vadimvr/PadawansTask12)
+
 [PadawansTask13](https://github.com/Vadimvr/PadawansTask13)
