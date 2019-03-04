@@ -15,13 +15,12 @@ Like to ride a bike and go hiking.)
 Tasks &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Status |&nbsp; &nbsp; &nbsp; start &nbsp; &nbsp; &nbsp; date &nbsp; | expiration date
 -------|-------------------|----|----  
 First Steps - Your portfolio | DONE | Feb 7, 2019 | Feb 8, 2019 
-Основы языка C# и .NET Framework | PLANNED |  | 
+Основы языка C# и .NET Framework | DONE | Feb 9, 2019 | Feb 16, 2019 
 C# Unit Тестирование | PLANNED |  | 
-Базовые коллекции  | PLANNED |  | 
-C# Coding Practice | PLANNED |  | 
+Базовые коллекции  | DONE | Feb 22, 2019  | Feb 26, 2019 
+C# Coding Practice | PLANNED | Feb 8, 2019   | 
 Демо-проект. Крестики-нолики | PLANNED |  | 
-Демо-проект. Крестики-нолики | PLANNED |  | 
-Вводное занятие. Открытый on-line тренинг "Программирование на C#" | PLANNED |  | 
+Вводное занятие. Открытый on-line тренинг "Программирование на C#" | DONE | Jun 28, 2019 | Feb 16, 2019 
 
 - [ ] Raise the level of English
 - [ ] Read book andrew troelsen c# 6.0
