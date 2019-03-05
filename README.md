@@ -52,6 +52,8 @@ C# Coding Practice | PLANNED | Feb 8, 2019 |
 
 [PadawansTask8 ](https://github.com/Vadimvr/PadawansTask8)
 
+[PadawansTask10](https://github.com/Vadimvr/PadawansTask10)
+
 [PadawansTask11](https://github.com/Vadimvr/PadawansTask11)
 
 [PadawansTask12](https://github.com/Vadimvr/PadawansTask12)
