@@ -26,7 +26,7 @@ C# Coding Practice | PLANNED | Feb 8, 2019 |
 - [ ] Read book andrew troelsen c# 6.0
 
 &nbsp; 
-[codewars]( https://www.codewars.com/users/Vadim%20Rakovets)
+[Code Wars]( https://www.codewars.com/users/Vadim%20Rakovets)
 &nbsp; 
 
 
