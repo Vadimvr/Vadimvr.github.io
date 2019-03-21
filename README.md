@@ -1,13 +1,7 @@
 ## Vadim Rakovets
 
 
-About me
 
-Did not work in IT. I decided to try and change the type of activity.
-
-Interests
-
-Like to ride a bike and go hiking.)
 
 
 ## My tasks 
